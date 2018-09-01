@@ -1,0 +1,2 @@
+51-34=17 horizontal to remove, every 3rd character
+36-24=12 vertial to remove, every 3rd character
